@@ -1,12 +1,5 @@
 # Model evaluation: the misuse of statistical techniques when evaluating observations versus predictions
 
-Malcolm McPhee1, Jonathan Richetti2, Barry Croke3, and Brad Walmsley1,4
-1 NSW Department of Primary Industries, Livestock Industries Centre, University of New England, Trevenna Road, Armidale, New South Wales, 2351, Australia
-2 CSIRO, 147 Underwood Av, Floreat, Perth, 6014, WA, Australia
-3 Mathematical Sciences Institute and Fenner School of Environmental and Society, The Australian National University, Australia
-4 Animal Genetics and Breeding Unit (AGBU), University of New England, Armidale, NSW, 2351, Australia
-
-
 This is a repository that have the data and functions used to calculate various metrics to evaluate model performance.
 
 Please cite: 
