@@ -19,10 +19,11 @@ Year: 2024
 
 Authors: Malcolm McPhee 1, Jonathan Richetti 2, Barry Croke 3, and Brad Walmsley 1,4
 
- 1 NSW Department of Primary Industries, Livestock Industries Centre, University of New England, Trevenna Road, Armidale, New South Wales, 2351, Australia
- 2 CSIRO, 147 Underwood Av, Floreat, Perth, 6014, WA, Australia
- 3 Mathematical Sciences Institute and Fenner School of Environmental and Society, The Australian National University, Australia
- 4 Animal Genetics and Breeding Unit (AGBU), University of New England, Armidale, NSW, 2351, Australia
+
+1- NSW Department of Primary Industries, Livestock Industries Centre, University of New England, Trevenna Road, Armidale, New South Wales, 2351, Australia
+2- CSIRO, 147 Underwood Av, Floreat, Perth, 6014, WA, Australia
+3- Mathematical Sciences Institute and Fenner School of Environmental and Society, The Australian National University, Australia
+4- Animal Genetics and Breeding Unit (AGBU), University of New England, Armidale, NSW, 2351, Australia
 
 DOI: xxx
 
