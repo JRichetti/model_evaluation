@@ -2,11 +2,11 @@
 
 This is a repository that have the data and functions used to calculate various metrics to evaluate model performance.
 
-Please cite: 
+Please cite: McPhee, M., Richetti, J., Croke, B., & Walmsley, B. (2024). Model evaluation: The misuse of statistical techniques when evaluating observations versus predictions. Socio-Environmental Systems Modelling, 6, 18758. https://doi.org/10.18174/sesmo.18758
 
 Title: Model evaluation: the misuse of statistical techniques when evaluating observations versus predictions
 
-Journal: SESMO
+Journal: Socio-Environmental Systems Modelling, 6, 18758.
 
 Year: 2024
 
@@ -18,7 +18,7 @@ Authors: Malcolm McPhee 1, Jonathan Richetti 2, Barry Croke 3, and Brad Walmsley
 3- Mathematical Sciences Institute and Fenner School of Environmental and Society, The Australian National University, Australia
 4- Animal Genetics and Breeding Unit (AGBU), University of New England, Armidale, NSW, 2351, Australia
 
-DOI: xxx
+DOI: https://doi.org/10.18174/sesmo.18758
 
 ### How to
 The metrics are in the Metric_calculator.R - simply call download that and call:
